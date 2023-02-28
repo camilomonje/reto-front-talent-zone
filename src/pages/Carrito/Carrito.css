@@ -1,0 +1,14 @@
+.ListCart{
+    width: 60%;
+    margin: auto;
+    padding: 1% 0;
+}
+
+.ButtonComprar {
+    text-align: center;
+    padding: 5% 0;
+}
+
+.ButtonEliminar {
+    margin-left: 2%;
+}
